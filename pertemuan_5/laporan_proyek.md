@@ -61,3 +61,6 @@ Antarmuka dibangun dengan **Streamlit** untuk menyajikan pengalaman interaktif:
 ## 4. Kesimpulan
 
 Aplikasi **Blockchain for Halal Coffee Supply Chain** ini berhasil menunjukkan implementasi konsep dasar *blockchain* (desentralisasi semu, immutability, dan *proof-of-work*) ke dalam studi kasus nyata di industri agrikultur dan makanan. Sistem ini efektif dalam memastikan bahwa rekam jejak kopi dari hulu ke hilir tetap transparan dan terlindungi dari pemalsuan data.
+
+![pt5bc.jpg](pt5bc.jpg)
+![pt5bc2.jpg](pt5bc2.jpg)
